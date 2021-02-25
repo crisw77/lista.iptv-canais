@@ -1,0 +1,125 @@
+
+#EXTM3U
+
+
+
+
+#EXTINF:-1,GLOBO SP skjdhas
+http://95.141.35.86:8081/look/sptvl/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ewpFvTh.png",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w856431346.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ewpFvTh.png",Rede Brasil SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?IMDSFULL
+
+#EXTINF:-1,SBT HD SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ce1IYro.png",TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ce1IYro.png",TV CULTURA PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ce1IYro.png",TV CULTURA PR HD
+http://200.189.113.201/hls/tve.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/gxu11jW.png",TV Gazeta MA (2)
+http://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/QAyakkR.png",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS (2)" tvg-logo="https://i.imgur.com/QAyakkR.png",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?IMDSFULL
+
+
+#EXTINF:0 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="CANAIS NOTÍCIAS", BAND NEWS
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="CANAIS NOTÍCIAS", BAND NEWS (1)
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pleK0Jo.png" group-title="CANAIS NOTÍCIAS", CNN
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sxCqgDa.jpg" group-title="CANAIS NOTÍCIAS", CNN BRASIL ¹
+https://bit.ly/3cPew8b?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sxCqgDa.jpg" group-title="CANAIS NOTÍCIAS", CNN BRASIL ²
+https://bit.ly/2ZmRWjd?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6TOylE1.png" group-title="CANAIS NOTÍCIAS", RECORD NEWS
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/v4IFpRT.png" group-title="CANAIS NOTÍCIAS",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?IMDSFULL
+
+
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+
+
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosphd_3a69aa1b_cd74d90a60698015bce5083d0c23496abd003382/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc5LjIxMi4xNDUuMTE4IjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyNzgyMjc7fQ%3D%3D
+
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/combate_ac3478d6_71f97e29a12618ee8701bac3bde1232959161e40/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc5LjIxMi4xNDUuMTE4IjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyMjYyMDg7fQ%3D%3D
+
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/cnnbrasil_db00e4fd_0206bbd1df2bef7ca2525f7fbe3a8bed836b98ba/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc5LjIxMi4xNDUuMTE4IjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyNzkzOTA7fQ%3D%3D
+
+
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_61f4b215d1651475083050825a6f9a58463cf49c/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc5LjIxMi4xNDUuMTE4IjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyNzk0OTc7fQ%3D%3D
+
+https://cdn.esporteone.com/GLOBOSP/video.m3u8
+
+https://cdn.esporteone.com/ANIMALPLANETHD/video.m3u8
+
+https://cdn.esporteone.com/GLOBOMINAS/video.m3u8
+
+https://cdn.esporteone.com/SBTHD/video.m3u8
+
+https://cdn.esporteone.com/NSC/video.m3u8
+
+https://cdn.esporteone.com/CNNBRASILHD/video.m3u8
+
+https://cdn.esporteone.com/GLOBOSP/video.m3u8
+
+https://cdn.esporteone.com/BANDNEWSHD/video.m3u8
+
+https://cdn.esporteone.com/GLOBONEWS/video.m3u8
+
+https://r2---sn-oxunxg8pjvn-jbize.googlevideo.com/videoplayback?expire=1614304761&ei=mQE4YIyVEZGO-LAP2IqE6A4&ip=179.212.145.118&id=VQRH6xM6T2o.1&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=LC&mm=44%2C29&mn=sn-oxunxg8pjvn-jbize%2Csn-bg07dnsy&ms=lva%2Crdu&mv=m&mvi=2&pl=19&initcwndbps=947500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=lltVM58jPTcdJAFF0ck03FUF&gir=yes&mt=1614282983&fvip=6&keepalive=yes&c=WEB_EMBEDDED_PLAYER&n=O2ttXpAODNU2Gg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgBH7ncNfZLNsXmacwOumqQ_WLeViRjL1ljRMli0YPqWQCIHTAT3RvheJAw09jFcVKGjj6Ypx4goZBlvKI0iwe14Ju&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOPDzFBv3YYnvcKyS--ODZpulWtJ695fa6IMa-rEBEPLAiAw2_sMsd8KOgxz97CW_22_t2ZiJr6X4R8hHc2RmqakQw%3D%3D&alr=yes&cpn=iHOmsDJ7RtDL3NeW&cver=1.20210222.1.0&sq=1434886&rn=3&rbuf=4868
+
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+https://cache-ssl.celtra.com/api/videoStream/c8aa9c8eb97ea7d4e1a09e728d209a75a308a28c564ca3aa09425b3f27cc7711/mpeg4HQ/video.mp4?transform=VideoStream
+
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/redetv_45cbe19f_7bf68787412166bff3c1a29722c091f92d70af9e/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc5LjIxMi4xNDUuMTE4IjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyODM1Mzk7fQ%3D%3D
+
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?sd=10&rebase=on
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globonewshd/video.m3u8?md5=i5qj6BZplVc-7MPv4PDd-g&expires=1614318603
+
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/recordhd/video.m3u8?md5=dVzN7fxVOfWViT4tqo-Mvg&expires=1614319410
+
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bandcampinashd/video.m3u8?md5=07Ydz2czDQIxwoghAeGM3Q&expires=1614319518
+
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8?md5=GeH5kW7n98AalbpApfzZLQ&expires=1614318037
+
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tvgazetahd_8f98b68c_f13f63924c074160815102e14b9c807c7e864393/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc5LjIxMi4xNDUuMTE4IjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyODQ5MTM7fQ%3D%3D
+
+
+
+
